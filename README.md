@@ -4,7 +4,7 @@
 - 🐥 Follow me on [Twitter](https://twitter.com/michael_haerle) 
 - 📨 Feel free to reach out to me at michael.haerle01@gmail.com
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=michael-haerle&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **michael-haerle/michael-haerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
