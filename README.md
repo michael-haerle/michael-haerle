@@ -5,6 +5,9 @@
 - 📨 Feel free to reach out to me at michael.haerle01@gmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=michael-haerle&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michael-haerle&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true)
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael-haerle&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
 <!--
 **michael-haerle/michael-haerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
