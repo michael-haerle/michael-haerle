@@ -1,6 +1,6 @@
 ## 👋 Hello and Welcome 💻
-- 👔 My name is Michael Haerle, I am a determined individual that excells in both team and individual enviroments. I am always looking for ways to expand my knowledge and hone my craft.
-- 📖 I am currently studing Data Science at CodeUp
+- 👔 Multi-faceted, quick learning, and dependable individual with 9+ years of management experience between Retail, Food Service, Business. I am proficient in Microsoft Office Programs, Python, and SQL. I have strong interpersonal and digital communication skills. As an analytical person, I pursue data driven solutions, and I am constantly striving to expand my knowledge and experience in the Data Science world. 
+- 📖 I graduated from Codeup in Data Science
 - 🐥 Follow me on [Twitter](https://twitter.com/michael_haerle) 
 - 📨 Feel free to reach out to me at michael.haerle01@gmail.com
 
